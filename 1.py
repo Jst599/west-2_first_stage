@@ -7,4 +7,3 @@ def count(x, y, z):
 
 count(4, 9, 0)
 
-# 666
